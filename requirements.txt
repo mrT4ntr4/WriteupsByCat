@@ -1,4 +1,5 @@
 halo
 tabulate
 bs4
+lxml
 requests
